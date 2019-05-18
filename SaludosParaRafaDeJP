@@ -1,0 +1,10 @@
+import jp.saludos;
+
+public class SaludosParaRafa(){
+  sout("Hola Rafa! Tome prestada una copia del proyecto +
+  + porque le estoy ayudando a Diana en su proyecto final +
+  + y no recordaba como usar jdbc con java. Para variar jamas + 
+  + subi mi proyecto del diccionario a Git :v +
+  + Saludos Profe! +
+  + JP :)");
+}
